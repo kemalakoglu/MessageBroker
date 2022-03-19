@@ -58,5 +58,5 @@ Then, run these commands to dockerize this application;
 
 - #### docker build -t messagebrokercontainer .
 - ####  docker-compose up
-}
+
 
