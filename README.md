@@ -1,6 +1,6 @@
 # Wunderdog.LinkShortener.MessageBroker
 
-This application provides Kafka Serve as dockerized.
+This application provides Kafka Server as dockerized.
 
 ---
 ## Requirements
