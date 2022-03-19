@@ -49,9 +49,8 @@ https://www.docker.com/products/docker-desktop
 
 ## Running the project
 
-First thing is checking 8080 port on your computer. If it is not available please define the port information which is available, onto some documents under the project. This is described below here;  
+First thing is checking 8083 port on your computer. If it is not available please define the port information which is available, onto some documents under the project. This is described below here;  
 
-- #### "const port = 8073;" on app.js
 - #### "EXPOSE 8083" on DockerFile
 
 Then, run these commands to dockerize this application;
